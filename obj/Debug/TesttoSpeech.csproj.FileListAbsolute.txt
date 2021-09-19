@@ -1,0 +1,10 @@
+C:\coding\C#\TesttoSpeech\bin\Debug\TesttoSpeech.exe.config
+C:\coding\C#\TesttoSpeech\bin\Debug\TesttoSpeech.exe
+C:\coding\C#\TesttoSpeech\bin\Debug\TesttoSpeech.pdb
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.csprojAssemblyReference.cache
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.Form1.resources
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.Properties.Resources.resources
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.csproj.GenerateResource.cache
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.csproj.CoreCompileInputs.cache
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.exe
+C:\coding\C#\TesttoSpeech\obj\Debug\TesttoSpeech.pdb
